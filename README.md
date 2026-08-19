@@ -1,4 +1,4 @@
-# Hi, I'm Katrina Kaur 👋
+# Hi, I'm Katrina 👋
 
 ### AI/ML Developer | Python | Computer Vision | GIS | AgriTech
 
